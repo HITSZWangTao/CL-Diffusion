@@ -24,7 +24,7 @@ Download or git clone the CL-Diffusion project. Download and unzip Models.zip an
    unzip Models.zip -d [CL-Diffusion root directory]
    unzip CSI_Samples_NoImpu.zip -d [CL-Diffusion root directory]
 ```
-## 2.2 Evaluation for a static environment
+## 2.2 Evaluation Results
 To evaluate the efficacy of CL-Diffusion, we use it to generate WiFi CSI data for the underground RTS application [24], and two RTS models [27, 28] are used to assess the quality of the generated data. The following table presents the performance of CL-Diffusion compared with RF-Diffusion [16] as the comparative model. 
 <p align="center">
   <img src="Images/da_performance.png" alt="Performance of augmentation using different diffusion models." width="50%"/>
