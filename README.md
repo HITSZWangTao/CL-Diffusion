@@ -5,7 +5,7 @@ We introduce CL-Diffusion, a novel diffusion model for augmenting WiFi CSI data,
   <img src="Images/architecture.png" alt="The DNN architecture" width="50%"/>
 </p>
 
-We have released the pre-trained model and part of the corresponding data files in releases, which can be used for performance testing.
+We have released the pre-trained model and the corresponding data files in releases, which can be used for performance testing.
 
 # Prerequisite and Evaluation
 ## 2.1 Prerequisite
