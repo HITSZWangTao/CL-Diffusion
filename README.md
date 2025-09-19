@@ -15,11 +15,11 @@ CL-Diffusion is implemented with Python 3.10 and PyTorch 2.1.0. We manage the de
 conda create -n CL-Diffusion python=3.10
 conda activate CL-Diffusion 
 ```
-Install PyTorch
+* Install PyTorch
 ```
   pip install torch==2.1.0+cu121 torchvision==0.16.0+cu121 torchaudio==2.1.0+cu121 --index-url https://download.pytorch.org/whl/cu121
 ```
-Download or git clone the CL-Diffusion project. Download and unzip Models.zip and CSI_Samples_NoImpu.zip in releases to the project directory. 
+* Download or git clone the CL-Diffusion project. Download and unzip Models.zip and CSI_Samples_NoImpu.zip in releases to the project directory. 
 ```
    unzip Models.zip -d [CL-Diffusion root directory]
    unzip CSI_Samples_NoImpu.zip -d [CL-Diffusion root directory]
