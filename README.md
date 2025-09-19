@@ -25,7 +25,7 @@ conda activate CL-Diffusion
    unzip CSI_Samples_NoImpu.zip -d [CL-Diffusion root directory]
 ```
 ## 2.2 Evaluation Results
-To evaluate the efficacy of CL-Diffusion, we use it to generate WiFi CSI data for the underground RTS application [24], and two RTS models [27, 28] are used to assess the quality of the generated data. The following table presents the performance of CL-Diffusion compared with RF-Diffusion [16] as the comparative model. 
+To evaluate the efficacy of CL-Diffusion, we use it to generate WiFi CSI data for the underground RTS application [24], and two RTS models [27, 28] are used to assess the quality of the generated data. The following table presents a comparison of CL-Diffusion with RF-Diffusion [16], the latter serving as the baseline model.
 <p align="center">
   <img src="Images/da_performance.png" alt="Performance of augmentation using different diffusion models." width="50%"/>
 </p>
